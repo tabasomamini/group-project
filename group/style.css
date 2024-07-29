@@ -230,7 +230,7 @@ footer{
 }
 .pargraph{
     color: gray;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 th{
     color: #fff;
@@ -269,7 +269,7 @@ td{
  .down{
     color: rgb(209, 204, 204);
     background-color: rgb(73, 72, 72);
-    padding: 40px;
+    padding: 50px;
  }
  .copyright{
     float: left;
